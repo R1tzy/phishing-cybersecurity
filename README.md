@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](https://raw.githubusercontent.com/cassiano-dio/cibersecurity-desafio-phishing/master/passwd.png)
